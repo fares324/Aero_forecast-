@@ -12,6 +12,8 @@ class WeatherApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Weather App',
       home: WeatherPage(),
+
     );
   }
+
 }
